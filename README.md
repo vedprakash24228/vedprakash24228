@@ -3,7 +3,7 @@
 ### Welcome to my Github Profile Page !
 
 
-I love Programming and Technology :heart:
+I love data and Technology :heart:
 <br>
 - 🌱 I am currently exploring the world of Data Analytics
 - 🎓 I am currently pursuing BTech from Punjab Engineering College (Deemed To Be University), Chandigarh, India
