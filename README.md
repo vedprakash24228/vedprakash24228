@@ -5,6 +5,6 @@
 
 I love data and Technology :heart:
 <br>
-- 🌱 I am currently exploring the world of Data Analytics
+- 🌱 I am currently exploring the world of Data Analytics and Business Intelligence
 - 🎓 I am currently pursuing BTech from Punjab Engineering College (Deemed To Be University), Chandigarh, India
 - ⚡ Fun fact: I love learning new things 🤓. I am fond of playing table tennis 🏓 and reading books 📚
